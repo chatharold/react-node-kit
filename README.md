@@ -14,7 +14,7 @@ This is a kit created to bootstrap a **react-node app**
 
 > A proxy is created to handle node and react at the simultaneously
 
-## Run nmp install:
+## Run npm install:
 - inside the **node** directory 
 - inside the **react** directory
 
