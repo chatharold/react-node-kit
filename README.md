@@ -12,7 +12,7 @@ This is a kit created to bootstrap a **react-node app**
 
 ![](https://i.postimg.cc/8P8fp2LN/Screen-Shot-2019-12-25-at-10-44-46-PM.png)
 
-> A proxy is created to handle node and react at the simultaneously
+> A proxy is created to handle node and react simultaneously
 
 ## Run inside the node and react directory:
 > $ npm install 
