@@ -4,7 +4,7 @@ This is a kit created to bootstrap a **react-node app**
 
 
 ## Node package.json:
-![car images](https://i.postimg.cc/kgbSFn9V/Screen-Shot-2019-12-25-at-10-39-50-PM.png)
+![](https://i.postimg.cc/kgbSFn9V/Screen-Shot-2019-12-25-at-10-39-50-PM.png)
 
 > **npm run harold**  starts react and node concurrently
 
