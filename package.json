@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "create-react-app": "^3.4.1",
-    "npm-install": "^1.4.0",
+    "npm-install": "^1.8.21",
     "react": "^16.13.1"
   }
 }
